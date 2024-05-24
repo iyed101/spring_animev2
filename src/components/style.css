@@ -1,0 +1,15 @@
+.container {
+    width: 1473px;
+    height: 768px;
+    position: relative;
+  }
+  
+  .inner {
+    width: 1473px;
+    height: 768px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    background-color: #333333;
+  }
+  

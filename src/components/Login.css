@@ -1,0 +1,38 @@
+.login_div{
+    width: 1473px;
+    height: 768px;
+    position: relative;
+}
+.pseudo_input{
+    width: 434px;
+    height: 47px;
+    left: 520px; 
+    top: 401px; 
+    position: absolute; 
+    background-color: white; 
+    border-radius: 5px;
+    color: rgba(6.36, 0, 0, 0.53);
+    font-size: 20px;
+    font-family: 'Poppins';
+    font-weight: 300;
+}
+.password_input{
+    left:520px ;
+    top: 489px ;
+}
+.button_style{
+    width: 233px;
+    height: 47px;
+    left: 620px; 
+    top: 648px; 
+    position: absolute; 
+    background-color: #FFEA00 ;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'poppins';
+    font-weight: 700;
+}
+.button_style:hover{
+    color: white;
+    background-color: black;
+}

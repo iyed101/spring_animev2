@@ -1,0 +1,28 @@
+.button{
+    width: 360px;
+    height: 96px;
+    left: 1073px;
+    top: 630px;
+    position: absolute;
+    background-color: #FFEA00;
+    border-radius: 22px;
+    color: black;
+    font-size: 50px;
+    font-family: 'poppins';
+    font-weight: 700;
+}
+.input1 {
+    width: 786px;
+    height: 101px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    border-radius: 15px;
+    border: 2px solid #FFEA00;
+    background: #333333;
+    color: #FFEA00;
+    font-size: 42px;
+    font-family: 'poppins';
+    font-weight: 400;
+}
+
